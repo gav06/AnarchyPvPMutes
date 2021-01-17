@@ -1,0 +1,7 @@
+name: AnarchyPvPMutes
+version: ${project.version}
+main: me.gav06.anarchypvpmutes.Main
+authors: [ Gav06 ]
+
+commands:
+  mute:
